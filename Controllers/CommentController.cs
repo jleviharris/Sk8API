@@ -18,6 +18,7 @@ namespace SkateAPI.Controllers
             _context = context;
         }
 
+
         [HttpGet]
         public async Task<IActionResult> GetAllComments()
         {
