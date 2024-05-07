@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkateAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cffc0a9c47af393ea3385c5ba21b0efa64af6fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkateAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkateAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
